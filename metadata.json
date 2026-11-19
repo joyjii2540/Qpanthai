@@ -1,0 +1,6 @@
+{
+  "name": "ตารางนัดคลินิกแพทย์แผนไทย",
+  "description": "ระบบจัดสัดส่วนและปรับแต่งตารางนัดผู้รับบริการคลินิกแพทย์แผนไทย โรงพยาบาลพระนครศรีอยุธยา สำหรับพิมพ์ขนาด A4 แนวนอน",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
